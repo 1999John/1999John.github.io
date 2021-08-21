@@ -42,7 +42,7 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  # fab fa-github: https://github.com/xxxxx || Github
+  fab fa-github: https://github.com/1999John || Github
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
 
 # search (搜索)
@@ -84,7 +84,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
+  img: https://avatars.githubusercontent.com/u/44989414?v=4
   effect: false
 
 # Disable all banner image
